@@ -48,7 +48,6 @@ body {
 }
 
 @media (min-width: 376px) and (max-width: 768px) {
-
   .QR-Card {
     width: 300px;
     padding: 20px;
@@ -65,4 +64,8 @@ body {
   .QR-Card-Body {
     font-size: 1.1em;
   }
+}
+
+.FM {
+  font-size: 0.7em;
 }
